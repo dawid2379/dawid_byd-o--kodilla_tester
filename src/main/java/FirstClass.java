@@ -1,5 +1,7 @@
 public class FirstClass{
-    public static void main(String[] args) {
-        System.out.println("Hello from FirstClass!");
+    public static void main(String[] args)
+    {
+        String zmienna = "Hello FirstClass!";
+                System.out.println(zmienna);
     }
 }
