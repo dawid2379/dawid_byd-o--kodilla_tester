@@ -1,4 +1,4 @@
-git config --global user.name "Jan Kowalski"plugins {
+plugins {
     id("java")
 }
 
